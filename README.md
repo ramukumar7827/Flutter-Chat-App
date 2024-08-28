@@ -19,3 +19,5 @@ This project is a **Real-Time Group Messaging** mobile application developed usi
 - **Firebase Cloud Messaging:** For sending push notifications about new messages.
 ![image](https://github.com/user-attachments/assets/4282fd7c-271b-42b6-9e43-c593e9212795)
 
+![image](https://github.com/user-attachments/assets/8245b9c2-1b85-403c-93c0-6fdcf855b2d6)
+![image](https://github.com/user-attachments/assets/20f100ca-e610-473e-808e-451ee9251418)
