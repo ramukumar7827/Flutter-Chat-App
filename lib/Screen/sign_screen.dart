@@ -22,10 +22,7 @@ class _SignScreen extends State<SignScreen> {
   final TextEditingController _bioController = TextEditingController();
   Uint8List? _image;
   selectImage() async {
-    // final ImagePicker img = ImagePicker();
-    // XFile? im = await img.pickImage(source: ImageSource.gallery);
-
-    Uint8List im = await pickImage(ImageSource.gallery);
+   Uint8List im = await pickImage(ImageSource.gallery);
     setState(() {
       _image = im;
     });
