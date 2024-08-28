@@ -17,7 +17,7 @@ This project is a **Real-Time Group Messaging** mobile application developed usi
 - **Firebase Authentication:** For secure and seamless user login and sign-up.
 - **Cloud Firestore:** To manage and store chat data in real-time.
 - **Firebase Cloud Messaging:** For sending push notifications about new messages.
-![image](https://github.com/user-attachments/assets/4282fd7c-271b-42b6-9e43-c593e9212795)
 
-![image](https://github.com/user-attachments/assets/8245b9c2-1b85-403c-93c0-6fdcf855b2d6)
-![image](https://github.com/user-attachments/assets/20f100ca-e610-473e-808e-451ee9251418)
+![image](https://github.com/user-attachments/assets/209514f9-9193-4d37-b32e-6fd0db818ee3)
+![image](https://github.com/user-attachments/assets/adabb212-919c-44dc-9116-908810fc22ef)
+![image](https://github.com/user-attachments/assets/92007565-d453-41d8-b8ec-bfecf22726d8)
