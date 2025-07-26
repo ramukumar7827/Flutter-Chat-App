@@ -20,4 +20,4 @@ This project is a **Real-Time Group Messaging** mobile application developed usi
 
 ![image](https://github.com/user-attachments/assets/209514f9-9193-4d37-b32e-6fd0db818ee3)
 ![image](https://github.com/user-attachments/assets/adabb212-919c-44dc-9116-908810fc22ef)
-![image](https://github.com/user-attachments/assets/92007565-d453-41d8-b8ec-bfecf22726d8)
+
